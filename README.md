@@ -10,7 +10,7 @@ Robotics undergraduate | Embedded & Control | Quadruped / Mobile Robots
 - 主要关注：**嵌入式控制 / 机器人运动学与控制 / 系统架构**
 - 正在做 & 学：
   - 四足机器人（运动学、状态机、底层控制）
-  - ROS 2（算法验证 / 仿真）
+  - ROS 2
   - STM32（H7 / F4，FreeRTOS）
 
 ---
