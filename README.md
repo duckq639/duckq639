@@ -19,26 +19,11 @@ Robotics undergraduate | Embedded & Control | Quadruped / Mobile Robots
 **Embedded**
 - STM32 (F4 / H7), FreeRTOS  
 - C / C++  
-- ESP32（Arduino / ESP-IDF）
 
 **Robotics**
 - Kinematics / Jacobian / FSM  
 - Mecanum & Legged Locomotion (learning)  
 - ROS 2, Gazebo
-
-**Tools**
-- Linux (Ubuntu 22.04)
-- Git / GitHub
-- VS Code
-
----
-
-## 📌 Current Focus
-- 四足机器人控制框架梳理（从 IK → 速度解算 → FSM）
-- ROS 2 + 仿真环境用于算法验证
-- 提升底层代码结构可维护性
-
----
 
 ---
 
